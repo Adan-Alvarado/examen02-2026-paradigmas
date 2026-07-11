@@ -3148,11 +3148,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\XIOMA\\Dev\\examen02-2026-Paradigmas\\AhorroApi\\AhorroApi.csproj",
+      "projectUniqueName": "C:\\Users\\XIOMA\\Dev\\examen02-2026-paradigmas\\AhorroApi.csproj",
       "projectName": "AhorroApi",
-      "projectPath": "C:\\Users\\XIOMA\\Dev\\examen02-2026-Paradigmas\\AhorroApi\\AhorroApi.csproj",
+      "projectPath": "C:\\Users\\XIOMA\\Dev\\examen02-2026-paradigmas\\AhorroApi.csproj",
       "packagesPath": "C:\\Users\\XIOMA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\XIOMA\\Dev\\examen02-2026-Paradigmas\\AhorroApi\\obj\\",
+      "outputPath": "C:\\Users\\XIOMA\\Dev\\examen02-2026-paradigmas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\XIOMA\\AppData\\Roaming\\NuGet\\NuGet.Config"

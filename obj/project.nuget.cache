@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "caecnh5BjF8=",
+  "dgSpecHash": "OE5mBAo7GWw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\XIOMA\\Dev\\examen02-2026-Paradigmas\\AhorroApi\\AhorroApi.csproj",
+  "projectFilePath": "C:\\Users\\XIOMA\\Dev\\examen02-2026-paradigmas\\AhorroApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\XIOMA\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\XIOMA\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.17\\microsoft.aspnetcore.openapi.9.0.17.nupkg.sha512",

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AhorroApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5041b9968f96123fcb748ae035a9f45c002196d9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+087b979e50cf6729e3bcd459c81907736acd6798")]
 [assembly: System.Reflection.AssemblyProductAttribute("AhorroApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AhorroApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
